@@ -1,7 +1,7 @@
 {
-  "homepage": "https://denis-ramos.github.io/page_react/",
   "name": "page_react",
   "private": true,
+  "homepage": "https://denis-ramos.github.io/page_react/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
