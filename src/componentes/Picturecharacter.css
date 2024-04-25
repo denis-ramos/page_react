@@ -1,0 +1,13 @@
+.imagencharacter {
+  /* Establece el radio de borde para hacer la imagen redonda */
+  width: 500px; /* Ancho de la imagen */
+  height: 500px; /* Altura de la imagen */
+}
+
+.contenedorImagencharacter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 500px;
+}

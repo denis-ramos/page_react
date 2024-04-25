@@ -1,0 +1,13 @@
+.imagen {
+  border-radius: 50%; /* Establece el radio de borde para hacer la imagen redonda */
+  width: 90px; /* Ancho de la imagen */
+  height: 90px; /* Altura de la imagen */
+}
+
+.contenedorImagen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 200px;
+}

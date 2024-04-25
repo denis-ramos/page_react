@@ -1,0 +1,40 @@
+
+.contenedorLetras
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.contenedor
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  width: 250px;
+
+}
+
+
+.datos {
+  font-family: "Inter", sans-serif;
+  margin-top: 0; /* Elimina el margen superior */
+  margin-bottom: 0;
+  font-size: 19px;
+  font-weight: 600;
+  color: hsl(0, 0%, 100%);
+}
+/* .uvicacion {
+  font-family: "Inter", sans-serif;
+  color: hsl(75, 94%, 57%);
+  font-size: 12px;
+}
+.informacion {
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter-regular", sans-serif;
+  font-weight: normal;
+  font-size: 11px;
+} */

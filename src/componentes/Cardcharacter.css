@@ -1,0 +1,16 @@
+.contenedorcharacter {
+  display: flex;
+  flex-direction: column;
+  background-color: hsl(0, 0%, 12%);
+  width: 500px;
+  border-radius: 25px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.HOME
+{
+  background-color: black;
+  width: 150PX;
+  height: 50PX;
+  margin-bottom: 10PX;
+}

@@ -1,0 +1,35 @@
+.contenedorS_T
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.status
+{
+    font-family: 'Roboto,sans-serif';
+    margin-top: 0;
+    margin-bottom: 0; /* Elimina el margen superior */
+    margin-bottom: -5px;
+    font-size: 60px;
+    font-weight: 250;
+    color: hsl(0, 0%, 100%);
+}
+.type
+{
+    font-family: 'Roboto,sans-serif';
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 40px;
+    font-weight: 260;
+    color: hsl(0, 0%, 100%);
+}
+.episodios
+{
+    font-family: 'Roboto,sans-serif';
+    margin-top: 0; 
+    margin-bottom: 10px;/* Elimina el margen superior */
+    font-size: 30px;
+    font-weight: 600;
+    color: hsl(0, 0%, 100%);
+}
